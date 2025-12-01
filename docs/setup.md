@@ -1,6 +1,6 @@
 #  <img src="https://cdn.purplelotus.agency/saas/lotusshield-icon.png" width="60" alt="LotusShield Logo"> LotusShield
 ### Zero Cost ECC Wildcard SSL Automation for cPanel + Cloudflare
-#### By Purple Lotus
+#### By [Purple Lotus]([https://choosealicense.com/licenses/mit/](https://purplelotus.agency/)) 
 
 LotusShield provides an elegant, automated solution for managing SSL certificates on cPanel hosting environments. It issues, renews, and installs wildcard ECC certificates for unlimited domains using Cloudflare DNS, acme.sh, and the cPanel UAPI.
 
@@ -19,7 +19,7 @@ You configure it once. LotusShield handles everything after that.
 - Cloudflare Integration using DNS-01
 - Cron Ready
 - Lightweight pure Bash scripts
-- Purple Lotus branded for consistency across the ecosystem
+- [Purple Lotus]([https://choosealicense.com/licenses/mit/](https://purplelotus.agency/)) branded for consistency across the ecosystem
 
 ---
 
@@ -218,9 +218,9 @@ Add enterprise style automation to cPanel based home servers.
 
 ---
 
-## Purple Lotus Philosophy
+## [Purple Lotus]([https://choosealicense.com/licenses/mit/](https://purplelotus.agency/)) Philosophy
 
-LotusShield reflects the Purple Lotus vision of clarity, simplicity, and empowerment.
+LotusShield reflects the [Purple Lotus]([https://choosealicense.com/licenses/mit/](https://purplelotus.agency/)) vision of clarity, simplicity, and empowerment.
 Tools should work quietly in the background, remove friction, and elevate your technical ecosystem with elegance and intention.
 
 ---
@@ -237,7 +237,7 @@ Pull requests are welcome. Please submit issues for:
 
 ## Maintained By
 
-**Purple Lotus**
+**[Purple Lotus]([https://choosealicense.com/licenses/mit/](https://purplelotus.agency/)) **
 Guided by clarity. Crafted with intention.
 
 ---
