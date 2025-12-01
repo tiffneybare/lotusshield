@@ -1,4 +1,4 @@
-#  <img src="https://cdn.purplelotus.agency/saas/lotusshield.png" width="60" alt="LotusShield Logo"> LotusShield by Purple Lotus
+#  <img src="https://cdn.purplelotus.agency/saas/lotusshield-trans.png" width="60" alt="LotusShield Logo"> LotusShield by Purple Lotus
 
 ## Why Are We Still Manually Uploading SSLs in 2025?
 
