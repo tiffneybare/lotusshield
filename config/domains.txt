@@ -1,0 +1,4 @@
+# One domain per line
+site1.com
+site3.com
+site4.agency
