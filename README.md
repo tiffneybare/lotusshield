@@ -17,7 +17,7 @@ Iconic.
 
 It’s outdated, stressful, and honestly beneath us at this point.
 
-## 🌸 The Purple Lotus Philosophy
+##  <img src="https://cdn.purplelotus.agency/lotus-flower-icon.png" width="60" alt="LotusShield Logo"> The Purple Lotus Philosophy
 
 Purple Lotus builds systems that:
 
@@ -91,7 +91,7 @@ SSL was overdue.
 - ⏳ Multi-control-panel support (CyberPanel, DirectAdmin, Plesk)
 - ⏳ Registrar expansion (DO, Cloudflare, Hetzner)
 
-## 🪷 Purple Lotus: Bringing Clarity to the Internet
+## <img src="https://cdn.purplelotus.agency/lotus-flower-icon.png" width="60" alt="LotusShield Logo">  Purple Lotus: Bringing Clarity to the Internet
 
 If you're done manually uploading SSL certs…
 If you’re tired of dashboard mazes and paid-upgrade traps…
