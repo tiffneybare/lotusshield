@@ -1,4 +1,4 @@
-# 🌸 LotusShield
+#  <img src="https://cdn.purplelotus.agency/saas/lotusshield-trans.png" width="60" alt="LotusShield Logo"> LotusShield
 ### Zero Cost ECC Wildcard SSL Automation for cPanel + Cloudflare
 #### By Purple Lotus
 
